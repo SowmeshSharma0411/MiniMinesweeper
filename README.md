@@ -5,7 +5,7 @@
 
 
 Minesweeper game created in C as the final project for the C course.
-The menu provides 3 optns :
+The terminal menu provides 3 optns :
 
 
 ---> Play the game : Choose between Lvl 1,2,3 and any custom game [M*N grid]. We will be needed to enter a x and y value which then will uncover that grid location. If you hit a bomb, You Are OUT!
